@@ -1,0 +1,50 @@
+{
+	"name": "one-material-dark",
+	"displayName": "One Material Dark Theme",
+	"description": "Atom's iconic One Dark syntax highlighting with Material Color for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "reagankarnes",
+	"author": {
+		"name": "reagankarnes"
+	},
+	"homepage": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/reka18/one-material-dark"
+	},
+	"bugs": {
+		"url": "",
+		"email": ""
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "One Material Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneMatDark.json"
+			}
+		]
+	},
+	"icon": "icon.png",
+	"keywords": [
+		"one dark",
+		"onedark",
+		"one dark pro",
+		"theme",
+		"atom"
+	],
+	"devDependencies": {
+		"docsify-cli": "^3.3.2",
+		"pre-commit": "^1.2.2"
+	},
+	"galleryBanner": {
+		"color": "#2d323b",
+		"theme": "dark"
+	}
+}
