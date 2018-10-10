@@ -7,14 +7,10 @@
 	"author": {
 		"name": "reagankarnes"
 	},
-	"homepage": "",
+	"homepage": "https://github.com/reka18/one-material-dark",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/reka18/one-material-dark"
-	},
-	"bugs": {
-		"url": "",
-		"email": ""
 	},
 	"engines": {
 		"vscode": "^1.12.0"
