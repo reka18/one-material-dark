@@ -1,7 +1,7 @@
 {
 	"name": "one-material-dark",
 	"displayName": "One Material Dark Theme",
-	"description": "Atom's iconic One Dark syntax highlighting with Material Color for Visual Studio Code",
+	"description": "Atom's One Dark syntax + Material's accents and dark color theme. A dark theme for Visual Studio Code.",
 	"version": "1.0.0",
 	"publisher": "reagankarnes",
 	"author": {
