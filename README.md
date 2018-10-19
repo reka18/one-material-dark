@@ -1,8 +1,8 @@
-# one-material-dark
+# one-material-theme
 
-A dark VS Code theme incorporating the Material Theme's space grey environment notes with One Dark syntax highlighting of Atom.io fame. See screen shots for examples in different states.
+Two themes for you to enjoy! A dark theme incorporating Material's space grey environment with One Dark syntax from Atom.io - now also including a hoth style light theme. See screen shots for examples in different states.
 
-https://github.com/reka18/one-material-dark
+https://github.com/reka18/one-material-theme
 
 Open editor with no open folders. Status bar default's to a cool teal.
 ![alt text](assets/screen1.png)
