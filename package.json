@@ -1,8 +1,8 @@
 {
 	"name": "one-material-dark",
-	"displayName": "One Material Dark Themes",
+	"displayName": "One Material Dark & Light Themes",
 	"description": "Atom's One Dark syntax + Material Dark & Light Environment Themes for Visual Studio Code.",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"publisher": "reagankarnes",
 	"author": {
 		"name": "reagankarnes"
@@ -21,12 +21,12 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "One Material Dark",
+				"label": "Dark (One Material)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/OneMatDark.json"
 			},
 			{
-				"label": "One Material Light",
+				"label": "Light (One Material)",
 				"uiTheme": "vs",
 				"path": "./themes/OneMatLight.json"
 			}
@@ -35,14 +35,10 @@
 	"icon": "icon.png",
 	"keywords": [
 		"one dark",
-		"onedark",
-		"one dark pro",
-		"theme",
-		"atom",
-		"material",
-		"light",
 		"one light",
-		"onelight"
+		"material",
+		"atom",
+		"theme"
 	],
 	"devDependencies": {
 		"docsify-cli": "^3.3.2",

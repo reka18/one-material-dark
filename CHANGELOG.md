@@ -1,4 +1,8 @@
 # Change Log
+
+## 1.1.1 | 2018.10.19
+- Corrected erros in meta data
+
 ## 1.1.0 | 2018.10.19
 - Added light theme
 
