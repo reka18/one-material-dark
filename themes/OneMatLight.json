@@ -505,7 +505,7 @@
       "name": "python arguments",
       "scope": "meta.function-call.arguments.python",
       "settings": {
-        "foreground": "#0000ff"
+        "foreground": "#000000"
       }
     },
     {
