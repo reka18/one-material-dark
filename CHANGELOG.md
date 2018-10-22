@@ -1,14 +1,25 @@
 # Change Log
 
+## 1.2.1 | 2018.10.22
+- Updated editor colors
+
+## 1.2.0 | 2018.10.22
+- Added two new themes
+
+## 1.1.3 | 2018.10.20
+- Updated readme.
+
+## 1.1.2 | 2018.10.19
+- Updated syntax highlighting
+
 ## 1.1.1 | 2018.10.19
-- Corrected erros in meta data
+- Corrected errors in meta data
 
 ## 1.1.0 | 2018.10.19
 - Added light theme
 
 ## 1.0.1 | 2018.10.17
-- Adjusted meta data.
-- No changes to src code.
+- Updated meta data.
 
 ## 1.0.0 | 2018.10.08
 - Initial release.

@@ -2,7 +2,7 @@
 	"name": "one-material-dark",
 	"displayName": "One Material Dark+",
 	"description": "Atom's One Dark syntax + Material Dark & Light Environment Themes for Visual Studio Code.",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"publisher": "reagankarnes",
 	"author": {
 		"name": "reagankarnes"
