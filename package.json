@@ -1,8 +1,8 @@
 {
 	"name": "one-material-dark",
 	"displayName": "One Material Dark+",
-	"description": "Atom's One Dark syntax + Material Dark & Light Environment Themes for Visual Studio Code.",
-	"version": "1.2.1",
+	"description": "Atom's One Dark syntax + Material Dark & Light Environment Themes (including Mojave) for Visual Studio Code.",
+	"version": "1.2.2",
 	"publisher": "reagankarnes",
 	"author": {
 		"name": "reagankarnes"
@@ -47,8 +47,8 @@
 		"one dark",
 		"one light",
 		"material",
-		"atom",
-		"theme"
+		"mojave",
+		"macos"
 	],
 	"devDependencies": {
 		"docsify-cli": "^3.3.2",

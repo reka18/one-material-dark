@@ -1,6 +1,18 @@
 # one-material-dark+
 
-Two themes for you to enjoy! A dark theme incorporating Material's space grey environment with One Dark syntax from Atom.io - now also including a hoth style light theme. See screen shots for examples in different states. Leave comments on repo if your favorite language's syntax looks terrible and I'll get a fix into my next update.
+Four themes for you to enjoy! My original dark theme incorporating Material's space grey environment with One Dark syntax from Atom.io - a hoth style light theme - the classic One Dark theme - and the first **MacOS Mojave theme** on VS Code! *This is for lovers of the One Dark syntax highlighting!*
+
+See screen shots for examples in different states. Leave comments on repo if your favorite language's syntax looks terrible and I'll get a fix into my next update.
+
+Themes:
+
+**One Classic Dark+**
+
+**One Material Dark+**
+
+**One Mojave Dark+**
+
+**One Material Light+**
 
 https://github.com/reka18/one-material-theme
 

@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.2 | 2018.10.22
+- Updated readme
+- Updated search terms.
+
 ## 1.2.1 | 2018.10.22
 - Updated editor colors
 
