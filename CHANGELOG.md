@@ -1,4 +1,8 @@
 # Change Log
+## 1.2.4 | 2018.11.20
+- Tweaked highlighting colors
+- Adjusted Mojave theme
+
 ## 1.2.3 | 2018.11.18
 - Improved editor color scheme
 
