@@ -1,4 +1,6 @@
 # Change Log
+## 1.2.3 | 2018.11.18
+- Improved editor color scheme
 
 ## 1.2.2 | 2018.10.22
 - Updated readme
