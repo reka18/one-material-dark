@@ -7,13 +7,17 @@
     "activityBar.foreground": "#a7b6b8",
     "activityBarBadge.background": "#009688",
     "diffEditor.insertedTextBackground": "#00ff001a",
-    "diffEditor.removedTextBackground": "#ff00001a",
+    "diffEditor.insertedTextBorder": "#388E3C",
+    "diffEditor.removedTextBackground": "#B71C1C",
+    "diffEditor.removedTextBorder": "#D32F2F",
     "dropdown.background": "#20292e",
     "editor.background": "#263238",
     "editor.findMatchBackground": "#0096887a",
     "editor.foreground": "#d4d4d4",
     "editor.lineHighlightBackground": "#212b30",
     "editor.selectionBackground": "#3b4d56",
+    "editor.selectionHighlightBackground": "#3b4d56",
+    "editor.findMatchHighlightBackground": "#009688",
     "editorBracketMatch.background": "#354044",
     "editorBracketMatch.border": "#FF000000",
     "editorCursor.foreground": "#009688",
@@ -28,7 +32,7 @@
     "editorSuggestWidget.foreground": "#e6f5f3",
     "editorSuggestWidget.highlightForeground": "#e6f5f3",
     "editorSuggestWidget.selectedBackground": "#009688",
-    "focusBorder": "#2c383d",
+    "focusBorder": "#076b61",
     "gitDecoration.conflictingResourceForeground": "#f69864",
     "gitDecoration.deletedResourceForeground": "#EF5350",
     "gitDecoration.ignoredResourceForeground": "#6a777a",
@@ -74,8 +78,7 @@
     "tab.inactiveForeground": "#a1b0b2",
     "titleBar.activeBackground": "#222d32"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "name": "class.self",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {

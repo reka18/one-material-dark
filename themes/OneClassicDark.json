@@ -20,11 +20,10 @@
         "editor.lineHighlightBackground": "#2c313c",
         "editor.selectionBackground": "#67769660",
         "editor.selectionHighlightBackground": "#ffffff10",
-        "editor.selectionHighlightBorder": "#ddd",
         "editorCursor.background": "#ffffffc9",
         "editorCursor.foreground": "#009688",
-        "editorBracketMatch.border": "#515a6b",
-        "editorBracketMatch.background": "#515a6b",
+        "editorBracketMatch.background": "#076b61",
+        "editorBracketMatch.border": "#076b61",
         "editor.findMatchBackground": "#42557B",
         "editor.findMatchBorder": "#009688",
         "editor.findMatchHighlightBackground": "#314365",
@@ -45,7 +44,7 @@
         "editorSuggestWidget.border": "#181A1F",
         "editorSuggestWidget.selectedBackground": "#2c313a",
         "editorWidget.background": "#21252B",
-        "focusBorder": "#21252b",
+        "focusBorder": "#076b61",
         "input.background": "#1d1f23",
         "list.activeSelectionBackground": "#2c313a",
         "list.activeSelectionForeground": "#d7dae0",
@@ -83,8 +82,7 @@
         "titleBar.inactiveBackground": "#21252B",
         "titleBar.inactiveForeground": "#6B717D"
     },
-    "tokenColors": [
-        {
+    "tokenColors": [{
             "name": "class.self",
             "scope": "variable.parameter.function.language.special.self.python",
             "settings": {
