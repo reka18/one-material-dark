@@ -2,7 +2,7 @@
 	"name": "one-material-dark",
 	"displayName": "One Material Dark+",
 	"description": "Atom's One Dark syntax + Material Dark & Light Environment Themes (including Mojave) for Visual Studio Code.",
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"publisher": "reagankarnes",
 	"author": {
 		"name": "reagankarnes"
